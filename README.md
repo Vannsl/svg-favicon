@@ -16,8 +16,9 @@ The favicon (`favicon.svg`) includes embedded CSS that changes colors based on t
     stroke: white;
   }
 }
+```
 
-You’ll also see the SVG rendered inline on the page for comparison/testing.
+You'll also see the SVG rendered inline on the page for comparison/testing.
 
 ## 🧭 Browser Support
 
@@ -28,7 +29,7 @@ You’ll also see the SVG rendered inline on the page for comparison/testing.
 * __Firefox__  
   Works without refreshing the tab during testing. Updates dynamically with color scheme changes.
 
-#### ❌ Does Not Work In:
+### ❌ Does Not Work In:
 
 * __Safari__  
   As of now, Safari does not support SVG favicons. This means the dark mode adaptation will not appear in the tab icon.
